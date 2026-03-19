@@ -113,7 +113,7 @@ Preview|Name|Features|Alternatives|Settings
 |<img src="Preview/Gadgets/beta2/Recycle Bin.png" width="130px" />|Recycle Bin|Shows Recycle Bin status and allows quick cleanup|No|No|Yes
 |<img src="Preview/Gadgets/beta2/Timer.png" width="130px" />|Timer|Kitchen Timer for just about anything|No|No|Yes
 |Build 5219|-|-|-|
-|<img src="Preview/Gadgets/beta1/Analog Clock.png" width="130px" />|Analog Clock|Displays current local time with configurable styles|No|No|Yes
+|<img src="Preview/Gadgets/beta1/Analogue Clock.png" width="130px" />|Analog Clock|Displays current local time with configurable styles|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Clock.png" width="130px" />|Clock|Displays current local time, day and night mode|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Mail.png" width="130px" />|Mail|Shows a fake number, currently not possible to make it real|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Internet Search.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|No|Yes
