@@ -1,4 +1,5 @@
 Windows Sidebar for Rainmeter
+
 Free and Open Source, works on Windows 7, 10 and 11
 =======================
 <img src="Preview/Main.png" width="1024px" />
