@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Gadgets>
+
+
+
+
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Calculator</Skin>
+	 <Meter>1.ini</Meter>
+    <Name>Calculator</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Calculator.png</Icon>
+    <Description>Perform basic arithmetic tasks with this calculator.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Clock</Skin>
+    <Meter>1.ini</Meter>
+    <Name>Clock</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Clock.png</Icon>
+    <Description>Watch the clock in your own time zone or any city in the world.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+
+
+  
+
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\CPU Meter</Skin>
+	 <Meter>1.ini</Meter>
+    <Name>CPU Meter</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/CPU Meter.png</Icon>
+    <Description>System Information.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  
+
+  
+        <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Currency</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Currency Conversion</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Currency Conversion.png</Icon>
+    <Description>Convert between currencies around the world.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Feed Viewer</Skin>
+		 <Meter>1.ini</Meter>
+    <Name>Feed Viewer</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Feed Viewer.png</Icon>
+    <Description>Track the latest news, sports, and entertainment headlines.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+    <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Feed Watcher</Skin>
+		 <Meter>1.ini</Meter>
+    <Name>Feed Watcher</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Feed Watcher.png</Icon>
+    <Description>Monitor your feeds</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+  
+
+
+    
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Sticky Notes</Skin>
+	<Meter>Yellow.ini</Meter>
+    <Name>Notes</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Notes.png</Icon>
+    <Description>Capture ideas, notes, and reminders in a quick and easy way</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  
+  
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Number Puzzle</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Number Puzzle</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Number Puzzle.png</Icon>
+    <Description>Move the pieces of the puzzle and try to put them in order.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+    <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Picture Puzzle</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Picture Puzzle</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Picture Puzzle.png</Icon>
+    <Description>Move the pieces of the puzzle and try to put them in order.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Recycle Bin</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Recycle Bin</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Recycle Bin.png</Icon>
+    <Description>Put files and icons you don't want in the trash.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Slideshow</Skin>
+	<Meter>Normal.ini</Meter>
+    <Name>Slide Show</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Slideshow.png</Icon>
+    <Description>Show a continuous slide show of your pictures.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+
+
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Stocks</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Stocks</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Stocks.png</Icon>
+    <Description>Track prices and view charts of your favorite stocks</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 2 Gadgets\Timer</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Timer</Name><Version>1.0.0.0</Version>
+    <Icon>icons/beta2/Timer.png</Icon>
+    <Description>Use this countdown timer to time almost anything.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+</Gadgets>

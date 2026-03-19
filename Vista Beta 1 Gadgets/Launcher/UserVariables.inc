@@ -1,0 +1,9 @@
+[Variables]
+Soft1=msedge.exe
+Soft1.icon=edge.png
+Soft2=wmplayer.exe
+Soft2.icon=wmp.png
+Soft3=explorer.exe
+Soft3.icon=documents.png
+Soft4=control.exe
+Soft4.icon=control.png

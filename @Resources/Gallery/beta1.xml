@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Gadgets>
+
+
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Analog Clock</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Analog Clock</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Analog Clock.png</Icon>
+    <Description>Shows Analog Clock.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Clock</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Clock</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Clock.png</Icon>
+    <Description>Shows Clock.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Email Gadget</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Email Gadget</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Email Gadget.png</Icon>
+    <Description>Shows Email Gadget.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Internet Search</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Internet Search</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Internet Search.png</Icon>
+    <Description>Shows Internet Search Gadget.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Launcher</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Launcher</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Launcher.png</Icon>
+    <Description>Shows Launcher.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Recycle Bin</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Recycle Bin</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Recycle Bin.png</Icon>
+    <Description>Shows Recycle Bin.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\RSS</Skin>
+	<Meter>1.ini</Meter>
+    <Name>RSS</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/RSS.png</Icon>
+    <Description>Shows RSS.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\RSS in HTML</Skin>
+	<Meter>1.ini</Meter>
+    <Name>RSS in HTML</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/RSS in HTML.png</Icon>
+    <Description>Shows RSS in HTML.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\Slideshow</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Slideshow</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/Slideshow.png</Icon>
+    <Description>Shows Slideshow.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  <Gadget>
+    <Skin>Vista Rainbar\Vista Beta 1 Gadgets\WM Player</Skin>
+	<Meter>1.ini</Meter>
+    <Name>WM Player</Name><Version>1.1.0.0</Version>
+    <Icon>icons/beta1/WM Player.png</Icon>
+    <Description>Shows WM Player.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+</Gadgets>

@@ -1,0 +1,1 @@
+To compile this, install VS Code and .NET 10 Runtime, then open this folder and type: dotnet run

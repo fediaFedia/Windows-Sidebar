@@ -1,0 +1,5 @@
+[TrayMeasure]
+Measure=Calc
+Formula=1
+TrayMeter=Bitmap
+TrayBitmap=Vista Rainbar\Extra\Icons\rtm.ico

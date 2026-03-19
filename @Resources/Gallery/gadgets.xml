@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Gadgets>
+
+
+
+
+  <Gadget>
+    <Skin>Vista Rainbar\Calendar\Monday</Skin>
+	 <Meter>Day.ini</Meter>
+    <Name>Calendar</Name><Version>1.1.0.0</Version>
+    <Icon>icons/Calendar.png</Icon>
+    <Description>Browse the days of the calendar.</Description>
+	<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+  <Gadget>
+   <Skin>Vista Rainbar\Clock\Normal</Skin>
+    <Meter>Antique.ini</Meter>
+    <Name>Clock</Name><Version>1.0.0.0</Version>
+    <Icon>icons/Clock.png</Icon>
+    <Description>Watch the clock in your own time zone or any city in the world</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+
+
+  
+
+  <Gadget>
+    <Skin>Vista Rainbar\CPU Meter</Skin>
+	 <Meter>1.ini</Meter>
+    <Name>CPU Meter</Name><Version>1.1.0.0</Version>
+    <Icon>icons/CPU Meter.png</Icon>
+    <Description>CPU and RAM usage.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  
+
+  
+        <Gadget>
+    <Skin>Vista Rainbar\Clock\Digital</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Digital Clock</Name><Version>1.1.0.0</Version>
+    <Icon>icons/Digital.png</Icon>
+    <Description>Shows a Digital Clock.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Launcher</Skin>
+		 <Meter>3.ini</Meter>
+    <Name>Launcher</Name><Version>1.1.0.0</Version>
+    <Icon>icons/Launcher.png</Icon>
+    <Description>Displays a Shortcut Launcher.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+  
+
+
+    
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Sticky Notes</Skin>
+	<Meter>Yellow.ini</Meter>
+    <Name>Notes</Name><Version>1.1.0.0</Version>
+    <Icon>icons/Notes.png</Icon>
+    <Description>Displays sticky notes.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  <Gadget>
+    <Skin>Vista Rainbar\RSS\1</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Feed Headlines</Name><Version>1.1.0.0</Version>
+    <Icon>icons/Feed Headlines.png</Icon>
+    <Description>Shows RSS headlines.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+
+  <Gadget>
+    <Skin>Vista Rainbar\Recycle Bin</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Recycle Bin</Name><Version>1.0.0.0</Version>
+    <Icon>icons/Recycle Bin.png</Icon>
+    <Description>Shows Recycle Bin status</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+  <Gadget>
+    <Skin>Vista Rainbar\Slideshow</Skin>
+	<Meter>Normal.ini</Meter>
+    <Name>Slideshow</Name><Version>1.0.0.0</Version>
+    <Icon>icons/Slideshow.png</Icon>
+    <Description>Show a continuous slide show of your pictures.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+
+
+  <Gadget>
+    <Skin>Vista Rainbar\Weather\1</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Weather</Name><Version>1.1.0.0</Version>
+    <Icon>icons/weather.png</Icon>
+    <Description>Shows weather conditions.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2006</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+  
+
+  
+
+</Gadgets>

@@ -1,0 +1,15 @@
+Right-click the Rainmeter icon in the tray.
+Find where it says
+
+[TrayMeasure]
+Measure=Calc
+Formula=1
+TrayMeter=Bitmap
+TrayBitmap=Vista Rainbar\Extra\Icons\rtm.ico
+
+
+Change the last filename to the icon that you want, like for example 
+
+TrayBitmap=Vista Rainbar\Extra\Icons\beta2.ico
+
+Save, and restart Rainmeter

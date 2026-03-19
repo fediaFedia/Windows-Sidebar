@@ -1,0 +1,9 @@
+[Variables]
+Soft1=explorer.exe
+Soft1.icon=explorer.png
+Soft2=notepad.exe
+Soft2.icon=Soft2.png
+Soft3=calc.exe
+Soft3.icon=calc.png
+Soft4=mspaint.exe
+Soft4.icon=Soft4.png
