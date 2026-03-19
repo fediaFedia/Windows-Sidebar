@@ -1,7 +1,7 @@
 Windows Sidebar for Rainmeter
-
-Free and Open Source, works on Windows 7, 10 and 11
 =======================
+Free and Open Source, works on Windows 7, 10 and 11
+
 <img src="Preview/Main.png" width="1024px" />
 
 ---------------
@@ -101,7 +101,7 @@ They can be enabled either through a Sidebar Theme or by enabling "Show All Gadg
 
 Preview|Name|Features|Alternatives|Settings
 |-|-|-|-|-|
-|Vista Beta 2 Build 5384 Gadgets|-|-|-|-
+|Build 5384|-|-|-|-
 |<img src="Preview/Gadgets/beta2/Calculator.png" width="130px" />|Calculator|You can do math on it|No|No|Yes
 |<img src="Preview/Gadgets/beta2/Clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|No|Yes
 |<img src="Preview/Gadgets/beta2/CPU Meter.png" width="130px" />|CPU Meter|Monitors CPU load and performance in real time|No|No|No
