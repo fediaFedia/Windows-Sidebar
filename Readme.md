@@ -1,4 +1,5 @@
 Windows Sidebar for Rainmeter
+Free and Open Source, works on Windows 7, 10 and 11
 =======================
 <img src="Preview/Main.png" width="1024px" />
 
@@ -24,9 +25,8 @@ Enjoy
 ## Gadgets
 You'll find almost every Gadget you may want:
 
-Preview|Name|Features|Alternatives|Large Variant|Settings
-|-|-|-|-|
-|<img src="Preview/Gadgets/Template.png" width="130px" />|Template|Base development template for creating new gadgets|Yes|Yes|Yes
+Preview|Name|Features|Alternatives|Settings
+|-|-|-|-|-|
 |<img src="Preview/Gadgets/Battery.png" width="130px" />|Battery|Displays current battery level and status|Yes|No|No
 |<img src="Preview/Gadgets/calendar.png" width="130px" />|Calendar|Shows current date, month view, and upcoming days|Yes|Yes|Yes
 |<img src="Preview/Gadgets/clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|No|Yes
@@ -52,6 +52,7 @@ Preview|Name|Features|Alternatives|Large Variant|Settings
 |<img src="Preview/Gadgets/Weather.png" width="130px" />|Weather|Shows current weather conditions and forecast|No|No|Yes
 |<img src="Preview/Gadgets/Wireless.png" width="130px" />|Wireless|Displays Wi-Fi signal strength and connection info|No|No|No
 |<img src="Preview/Gadgets/World Clock.png" width="130px" />|World Clock|Displays current time for multiple locations|No|No|Yes
+
 ----
 
 ## Skins / Styles
@@ -65,15 +66,14 @@ There is a Windows 7 option, where the sidebar is invisible and just a small + i
 ## Galleries
 There are 4 Gallery Styles respective to Vista RTM, Vista Beta 2 5384, Vista Beta 2 5219, Vista Beta 2 5212
 
-|-|-|
-|<img src="Preview/Vista RTM Gallery.png" width="330px" />|<img src="Preview/Vista Beta 2 Gallery.png" width="330px" />|
-|<img src="Preview/Vista Beta 1 Gallery.png" width="330px" />|<img src="Preview/Vista Beta 2 Gallery.png" width="330px" />|
+<img src="Preview/Vista RTM Gallery.png" width="250px" /><img src="Preview/Vista Beta 2 Gallery.png" width="250px" /><img src="Preview/Vista Beta 1 Gallery.png" width="250px" /><img src="Preview/Vista Beta 1 Gallery Alt.png" width="250px" />
+----
 
 ## Settings
 
 Sidebar and Gadgets have dedicated Config tools
-|-|-|
-|<img src="Preview/Settings - Sidebar.png" width="330px" />|<img src="Preview/Settings - Gadgets.png" width="330px" />|
+
+<img src="Preview/Settings - Sidebar.png" width="330px" /> <img src="Preview/Settings - Gadgets.png" width="330px" />
 
 ## Capabilities
 - Ability to position on the Right or on the Left with one click
@@ -90,18 +90,19 @@ Some more included Extras for real Windows fans:
 
 Preview|Name|Features
 |-|-|-|
-|<img src="Preview/Gadgets/ReserveScreenSpace.gif" width="300px" />|**Reserve Screen Space**|Included Utility lets you realistically reserve screen space for the Sidebar, does not run in Memory
-|<img src="Preview/Gadgets/BuildTag.png" width="300px" />|**Build Tag**|Put a configurable Build tag on your Desktop
-|<img src="Preview/Gadgets/SidebarConfig.png" width="300px" />|**Configuration**|The sidebar has lots of configuration options
+||**Reserve Screen Space**|Included Utility lets you realistically reserve screen space for the Sidebar, does not run in Memory
+||**Build Tag**|Put a configurable Build tag on your Desktop
+||**Configuration**|The sidebar has lots of configuration options
 
 ## Vista Beta 2 Gadgets
 For historical integrity, there are also Vista Beta 2 Gadgets in the Project
 They can be enabled either through a Sidebar Theme or by enabling "Show All Gadgets"
 
-Preview|Name|Features|Alternatives|Large Variant|Settings
-|Vista Beta 2 Build 5384 Gadgets|-|-|-|
+Preview|Name|Features|Alternatives|Settings
+|-|-|-|-|-|
+|Vista Beta 2 Build 5384 Gadgets|-|-|-|-
 |<img src="Preview/Gadgets/beta2/Calculator.png" width="130px" />|Calculator|You can do math on it|No|No|Yes
-|<img src="Preview/Gadgets/beta2/clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|No|Yes
+|<img src="Preview/Gadgets/beta2/Clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|No|Yes
 |<img src="Preview/Gadgets/beta2/CPU Meter.png" width="130px" />|CPU Meter|Monitors CPU load and performance in real time|No|No|No
 |<img src="Preview/Gadgets/beta2/Currency Converter.png" width="130px" />|Currency|Displays up-to-date currency exchange rates|No|No|Yes
 |<img src="Preview/Gadgets/beta2/Feed Viewer.png" width="130px" />|Feed Viewer|Displays live RSS or news feed updates|No|Yes|Yes
@@ -110,9 +111,9 @@ Preview|Name|Features|Alternatives|Large Variant|Settings
 |<img src="Preview/Gadgets/beta2/Picture Puzzle.png" width="130px" />|Picture Puzzle|Interactive sliding puzzle game using selected images|No|No|No
 |<img src="Preview/Gadgets/beta2/Recycle Bin.png" width="130px" />|Recycle Bin|Shows Recycle Bin status and allows quick cleanup|No|No|Yes
 |<img src="Preview/Gadgets/beta2/Timer.png" width="130px" />|Timer|Kitchen Timer for just about anything|No|No|Yes
-|Vista Beta 2 Build 5219 Gadgets|-|-|-|
-|<img src="Preview/Gadgets/beta1/analog clock.png" width="130px" />|Analog Clock|Displays current local time with configurable styles|No|No|Yes
-|<img src="Preview/Gadgets/beta1/clock.png" width="130px" />|Clock|Displays current local time, day and night mode|No|No|Yes
+|Build 5219|-|-|-|
+|<img src="Preview/Gadgets/beta1/Analog Clock.png" width="130px" />|Analog Clock|Displays current local time with configurable styles|No|No|Yes
+|<img src="Preview/Gadgets/beta1/Clock.png" width="130px" />|Clock|Displays current local time, day and night mode|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Mail.png" width="130px" />|Mail|Shows a fake number, currently not possible to make it real|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Internet Search.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Launcher.png" width="130px" />|Launcher|Customizable shortcut panel for launching apps or websites|No|No|Yes
@@ -120,9 +121,10 @@ Preview|Name|Features|Alternatives|Large Variant|Settings
 |<img src="Preview/Gadgets/beta1/RSS in HTML.png" width="130px" />|RSS in HTML|Displays live RSS or news feed updates|No|Yes|Yes
 |<img src="Preview/Gadgets/beta1/Slideshow.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|No|Yes
 |<img src="Preview/Gadgets/beta1/WM Player.png" width="130px" />|WM Player|Controls playback for supported media players|No|No|Yes
-|Vista Beta 2 Build 5212 Extra Gadgets|-|-|-|
+|Build 5212|-|-|-|
 |<img src="Preview/Gadgets/beta1/Internet Search Alt.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|No|Yes
 |<img src="Preview/Gadgets/beta1/Slideshow Alt.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|No|Yes
+
 ----
 
 
