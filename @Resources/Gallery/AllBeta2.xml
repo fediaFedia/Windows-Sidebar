@@ -537,4 +537,24 @@
 	<Copyright>© 2006</Copyright>
 	<Link>www.gallery.microsoft.com</Link>
   </Gadget>
+      <Gadget>
+    <Skin>Vista Rainbar\Windows 7 Gadgets\Feedback</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Feedback</Name><Version>1.0.0.0</Version>
+    <Icon>icons/win7/feedback.png</Icon>
+    <Description>Rate your experience in Windows Seven.</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2007</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
+      <Gadget>
+    <Skin>Vista Rainbar\Windows 7 Gadgets\Windows Media Center</Skin>
+	<Meter>1.ini</Meter>
+    <Name>Windows Media Center</Name><Version>1.0.0.0</Version>
+    <Icon>icons/win7/Windows Media Center.png</Icon>
+    <Description>Track your most recordings or quickly get to your favorites music and pictures</Description>
+		<Author>Microsoft Corporation</Author>
+	<Copyright>© 2007</Copyright>
+	<Link>www.gallery.microsoft.com</Link>
+  </Gadget>
 </Gadgets>

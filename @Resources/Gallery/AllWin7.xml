@@ -538,7 +538,7 @@
 	<Copyright>© 2006</Copyright>
 	<Link>www.gallery.microsoft.com</Link>
   </Gadget>
-      <Gadget>
+    <Gadget>
     <Skin>Vista Rainbar\Windows 7 Gadgets\Feedback</Skin>
 	<Meter>1.ini</Meter>
     <Name>Feedback</Name><Version>1.0.0.0</Version>
@@ -558,4 +558,5 @@
 	<Copyright>© 2007</Copyright>
 	<Link>www.gallery.microsoft.com</Link>
   </Gadget>
+  
 </Gadgets>
