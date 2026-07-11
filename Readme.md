@@ -60,6 +60,7 @@ Preview|Name|Features|Alternatives|Settings
 |<img src="Preview/Gadgets/World Clock.png" width="130px" />|World Clock|Displays current time for multiple locations|No|Yes
 |<img src="Preview/Gadgets/win7/Feedback.png" width="130px" />|Feedback|Shows a configurable link|No|No
 |<img src="Preview/Gadgets/win7/Windows Media Center.png" width="130px" />|Windows Media Center|Shows a configurable link (to ehshell.exe)|No|No
+|<img src="Preview/Gadgets/win7/Windows Media Center Large.png" width="130px" />|Windows Media Center|Shows a configurable link (to ehshell.exe)|No|No
 
 ----
 
