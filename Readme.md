@@ -29,33 +29,33 @@ You'll find almost every Gadget you may want:
 
 Preview|Name|Features|Alternatives|Settings
 |-|-|-|-|-|
-|<img src="Preview/Gadgets/Battery.png" width="130px" />|Battery|Displays current battery level and status|Yes|No|No
+|<img src="Preview/Gadgets/Battery.png" width="130px" />|Battery|Displays current battery level and status|Yes|No
 |<img src="Preview/Gadgets/calendar.png" width="130px" />|Calendar|Shows current date, month view, and upcoming days|Yes|Yes|Yes
-|<img src="Preview/Gadgets/clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|No|Yes
-|<img src="Preview/Gadgets/Contacts.png" width="130px" />|Contacts|Shows contact list with quick interaction options|No|No|Yes
-|<img src="Preview/Gadgets/CPU Meter.png" width="130px" />|CPU Meter|Monitors CPU load and performance in real time|No|No|No
-|<img src="Preview/Gadgets/Currency.png" width="130px" />|Currency|Displays up-to-date currency exchange rates|No|No|Yes
-|<img src="Preview/Gadgets/Date.png" width="130px" />|Date|Shows the current date with customizable format|No|No|No
-|<img src="Preview/Gadgets/Digital Clock.png" width="130px" />|Digital Clock|Displays digital time with day/night theme options|No|No|Yes
-|<img src="Preview/Gadgets/Drive.png" width="130px" />|Drive|Monitors disk usage and available space|No|No|Yes
-|<img src="Preview/Gadgets/Feed Headlines.png" width="130px" />|Feed Headlines|Displays live RSS or news feed updates|No|Yes|Yes
-|<img src="Preview/Gadgets/Launcher.png" width="130px" />|Launcher|Customizable shortcut panel for launching apps or websites|No|No|Yes
-|<img src="Preview/Gadgets/Media Player.png" width="130px" />|Media Player|Controls playback for supported media players|Yes|No|Yes
-|<img src="Preview/Gadgets/Multi-Meter.png" width="130px" />|Multi-Meter|Combines CPU, RAM, and disk usage monitoring in one|No|No|No
-|<img src="Preview/Gadgets/Network.png" width="130px" />|Network|Displays network IP, upload/download speeds|No|No|No
-|<img src="Preview/Gadgets/Notes.png" width="130px" />|Notes|Simple sticky notes gadget for quick text memos|No|No|Yes
-|<img src="Preview/Gadgets/Picture Puzzle.png" width="130px" />|Picture Puzzle|Interactive sliding puzzle game using selected images|No|No|Yes
-|<img src="Preview/Gadgets/Recycle Bin.png" width="130px" />|Recycle Bin|Shows Recycle Bin status and allows quick cleanup|No|No|Yes
-|<img src="Preview/Gadgets/Red Button.png" width="130px" />|Red Button|Customizable button for system actions or shortcuts|No|No|Yes
-|<img src="Preview/Gadgets/RED Clock.png" width="130px" />|RED Clock|Stylish clock with alarm and customizable appearance|No|No|No
-|<img src="Preview/Gadgets/Slideshow.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|No|Yes
-|<img src="Preview/Gadgets/Sunset.png" width="130px" />|Sunset|Shows sunrise/sunset times and weather info|No|No|Yes
-|<img src="Preview/Gadgets/Uptime.png" width="130px" />|Uptime|Displays system uptime since last boot|No|No|No
-|<img src="Preview/Gadgets/Weather.png" width="130px" />|Weather|Shows current weather conditions and forecast|No|No|Yes
-|<img src="Preview/Gadgets/Wireless.png" width="130px" />|Wireless|Displays Wi-Fi signal strength and connection info|No|No|No
-|<img src="Preview/Gadgets/World Clock.png" width="130px" />|World Clock|Displays current time for multiple locations|No|No|Yes
-|<img src="Preview/Gadgets/win7/Feedback.png" width="130px" />|Feedback|Shows a configurable link|No|No|No
-|<img src="Preview/Gadgets/win7/Windows Media Center.png" width="130px" />|Windows Media Center|Shows a configurable link (to ehshell.exe)|No|No|No
+|<img src="Preview/Gadgets/clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|Yes
+|<img src="Preview/Gadgets/Contacts.png" width="130px" />|Contacts|Shows contact list with quick interaction options|No|Yes
+|<img src="Preview/Gadgets/CPU Meter.png" width="130px" />|CPU Meter|Monitors CPU load and performance in real time|No|No
+|<img src="Preview/Gadgets/Currency.png" width="130px" />|Currency|Displays up-to-date currency exchange rates|No|Yes
+|<img src="Preview/Gadgets/Date.png" width="130px" />|Date|Shows the current date with customizable format|No|No
+|<img src="Preview/Gadgets/Digital Clock.png" width="130px" />|Digital Clock|Displays digital time with day/night theme options|No|Yes
+|<img src="Preview/Gadgets/Drive.png" width="130px" />|Drive|Monitors disk usage and available space|No|Yes
+|<img src="Preview/Gadgets/Feed Headlines.png" width="130px" />|Feed Headlines|Displays live RSS or news feed updates|Yes|Yes
+|<img src="Preview/Gadgets/Launcher.png" width="130px" />|Launcher|Customizable shortcut panel for launching apps or websites|No|Yes
+|<img src="Preview/Gadgets/Media Player.png" width="130px" />|Media Player|Controls playback for supported media players|Yes|Yes
+|<img src="Preview/Gadgets/Multi-Meter.png" width="130px" />|Multi-Meter|Combines CPU, RAM, and disk usage monitoring in one|No|No
+|<img src="Preview/Gadgets/Network.png" width="130px" />|Network|Displays network IP, upload/download speeds|No|No
+|<img src="Preview/Gadgets/Notes.png" width="130px" />|Notes|Simple sticky notes gadget for quick text memos|No|Yes
+|<img src="Preview/Gadgets/Picture Puzzle.png" width="130px" />|Picture Puzzle|Interactive sliding puzzle game using selected images|No|Yes
+|<img src="Preview/Gadgets/Recycle Bin.png" width="130px" />|Recycle Bin|Shows Recycle Bin status and allows quick cleanup|No|Yes
+|<img src="Preview/Gadgets/Red Button.png" width="130px" />|Red Button|Customizable button for system actions or shortcuts|No|Yes
+|<img src="Preview/Gadgets/RED Clock.png" width="130px" />|RED Clock|Stylish clock with alarm and customizable appearance|No|No
+|<img src="Preview/Gadgets/Slideshow.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|Yes
+|<img src="Preview/Gadgets/Sunset.png" width="130px" />|Sunset|Shows sunrise/sunset times and weather info|No|Yes
+|<img src="Preview/Gadgets/Uptime.png" width="130px" />|Uptime|Displays system uptime since last boot|No|No
+|<img src="Preview/Gadgets/Weather.png" width="130px" />|Weather|Shows current weather conditions and forecast|No|Yes
+|<img src="Preview/Gadgets/Wireless.png" width="130px" />|Wireless|Displays Wi-Fi signal strength and connection info|No|No
+|<img src="Preview/Gadgets/World Clock.png" width="130px" />|World Clock|Displays current time for multiple locations|No|Yes
+|<img src="Preview/Gadgets/win7/Feedback.png" width="130px" />|Feedback|Shows a configurable link|No|No
+|<img src="Preview/Gadgets/win7/Windows Media Center.png" width="130px" />|Windows Media Center|Shows a configurable link (to ehshell.exe)|No|No
 
 ----
 
@@ -105,29 +105,29 @@ They can be enabled either through a Sidebar Theme or by enabling "Show All Gadg
 Preview|Name|Features|Alternatives|Settings
 |-|-|-|-|-|
 |Build 5384|-|-|-|-
-|<img src="Preview/Gadgets/beta2/Calculator.png" width="130px" />|Calculator|You can do math on it|No|No|Yes
-|<img src="Preview/Gadgets/beta2/Clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|No|Yes
-|<img src="Preview/Gadgets/beta2/CPU Meter.png" width="130px" />|CPU Meter|Monitors CPU load and performance in real time|No|No|No
-|<img src="Preview/Gadgets/beta2/Currency Converter.png" width="130px" />|Currency|Displays up-to-date currency exchange rates|No|No|Yes
-|<img src="Preview/Gadgets/beta2/Feed Viewer.png" width="130px" />|Feed Viewer|Displays live RSS or news feed updates|No|Yes|Yes
-|<img src="Preview/Gadgets/beta2/Feed Watcher.png" width="130px" />|Feed Watcher|Displays live RSS or news feed updates|No|Yes|Yes
-|<img src="Preview/Gadgets/beta2/Number Puzzle.png" width="130px" />|Number Puzzle|Interactive sliding puzzle game using selected images|No|No|No
-|<img src="Preview/Gadgets/beta2/Picture Puzzle.png" width="130px" />|Picture Puzzle|Interactive sliding puzzle game using selected images|No|No|No
-|<img src="Preview/Gadgets/beta2/Recycle Bin.png" width="130px" />|Recycle Bin|Shows Recycle Bin status and allows quick cleanup|No|No|Yes
-|<img src="Preview/Gadgets/beta2/Timer.png" width="130px" />|Timer|Kitchen Timer for just about anything|No|No|Yes
+|<img src="Preview/Gadgets/beta2/Calculator.png" width="130px" />|Calculator|You can do math on it|No|Yes
+|<img src="Preview/Gadgets/beta2/Clock.png" width="130px" />|Clock|Displays current local time with configurable styles|No|Yes
+|<img src="Preview/Gadgets/beta2/CPU Meter.png" width="130px" />|CPU Meter|Monitors CPU load and performance in real time|No|No
+|<img src="Preview/Gadgets/beta2/Currency Converter.png" width="130px" />|Currency|Displays up-to-date currency exchange rates|No|Yes
+|<img src="Preview/Gadgets/beta2/Feed Viewer.png" width="130px" />|Feed Viewer|Displays live RSS or news feed updates|Yes|Yes
+|<img src="Preview/Gadgets/beta2/Feed Watcher.png" width="130px" />|Feed Watcher|Displays live RSS or news feed updates|Yes|Yes
+|<img src="Preview/Gadgets/beta2/Number Puzzle.png" width="130px" />|Number Puzzle|Interactive sliding puzzle game using selected images|No|No
+|<img src="Preview/Gadgets/beta2/Picture Puzzle.png" width="130px" />|Picture Puzzle|Interactive sliding puzzle game using selected images|No|No
+|<img src="Preview/Gadgets/beta2/Recycle Bin.png" width="130px" />|Recycle Bin|Shows Recycle Bin status and allows quick cleanup|No|Yes
+|<img src="Preview/Gadgets/beta2/Timer.png" width="130px" />|Timer|Kitchen Timer for just about anything|No|Yes
 |Build 5219|-|-|-|
-|<img src="Preview/Gadgets/beta1/Analogue Clock.png" width="130px" />|Analog Clock|Displays current local time with configurable styles|No|No|Yes
-|<img src="Preview/Gadgets/beta1/Clock.png" width="130px" />|Clock|Displays current local time, day and night mode|No|No|Yes
-|<img src="Preview/Gadgets/beta1/Mail.png" width="130px" />|Mail|Shows a fake number, currently not possible to make it real|No|No|Yes
-|<img src="Preview/Gadgets/beta1/Internet Search.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|No|Yes
-|<img src="Preview/Gadgets/beta1/Launcher.png" width="130px" />|Launcher|Customizable shortcut panel for launching apps or websites|No|No|Yes
-|<img src="Preview/Gadgets/beta1/RSS.png" width="130px" />|RSS|Displays live RSS or news feed updates|No|Yes|Yes
-|<img src="Preview/Gadgets/beta1/RSS in HTML.png" width="130px" />|RSS in HTML|Displays live RSS or news feed updates|No|Yes|Yes
-|<img src="Preview/Gadgets/beta1/Slideshow.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|No|Yes
-|<img src="Preview/Gadgets/beta1/WM Player.png" width="130px" />|WM Player|Controls playback for supported media players|No|No|Yes
+|<img src="Preview/Gadgets/beta1/Analogue Clock.png" width="130px" />|Analog Clock|Displays current local time with configurable styles|No|Yes
+|<img src="Preview/Gadgets/beta1/Clock.png" width="130px" />|Clock|Displays current local time, day and night mode|No|Yes
+|<img src="Preview/Gadgets/beta1/Mail.png" width="130px" />|Mail|Shows a fake number, currently not possible to make it real|No|Yes
+|<img src="Preview/Gadgets/beta1/Internet Search.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|Yes
+|<img src="Preview/Gadgets/beta1/Launcher.png" width="130px" />|Launcher|Customizable shortcut panel for launching apps or websites|No|Yes
+|<img src="Preview/Gadgets/beta1/RSS.png" width="130px" />|RSS|Displays live RSS or news feed updates|Yes|Yes
+|<img src="Preview/Gadgets/beta1/RSS in HTML.png" width="130px" />|RSS in HTML|Displays live RSS or news feed updates|Yes|Yes
+|<img src="Preview/Gadgets/beta1/Slideshow.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|Yes
+|<img src="Preview/Gadgets/beta1/WM Player.png" width="130px" />|WM Player|Controls playback for supported media players|No|Yes
 |Build 5212|-|-|-|
-|<img src="Preview/Gadgets/beta1/Internet Search Alt.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|No|Yes
-|<img src="Preview/Gadgets/beta1/Slideshow Alt.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|No|Yes
+|<img src="Preview/Gadgets/beta1/Internet Search Alt.png" width="130px" />|Internet Search|Lets you Search from the Gadget|No|Yes
+|<img src="Preview/Gadgets/beta1/Slideshow Alt.png" width="130px" />|Slideshow|Displays photos from a selected folder as a slideshow|Yes|Yes
 
 ----
 
