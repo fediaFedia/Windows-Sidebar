@@ -3,8 +3,8 @@ Windows Sidebar for Rainmeter
 Free and Open Source, works on Windows 7, 10 and 11
 --
 In-part a museum / preservation effort of the wonderful design work from a bygone era...
+---------------
 <img src="https://github.com/fediaFedia/Longhorn/raw/main/preview.jpg" width="256px" />
---
 <a href="https://github.com/fediaFedia/Longhorn"> Also check out the Longhorn Sidebar!</a>
 
 
