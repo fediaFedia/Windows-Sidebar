@@ -53,6 +53,8 @@ Preview|Name|Features|Alternatives|Settings
 |<img src="Preview/Gadgets/Weather.png" width="130px" />|Weather|Shows current weather conditions and forecast|No|No|Yes
 |<img src="Preview/Gadgets/Wireless.png" width="130px" />|Wireless|Displays Wi-Fi signal strength and connection info|No|No|No
 |<img src="Preview/Gadgets/World Clock.png" width="130px" />|World Clock|Displays current time for multiple locations|No|No|Yes
+|<img src="Preview/Gadgets/Win7/Feedback.png" width="130px" />|Feedback|Shows a configurable link|No|No|No
+|<img src="Preview/Gadgets/Win7/Windows Media Center.png" width="130px" />|Windows Media Center|Shows a configurable link (to ehshell.exe)|No|No|No
 
 ----
 
