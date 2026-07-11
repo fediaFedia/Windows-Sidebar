@@ -2,11 +2,12 @@ Windows Sidebar for Rainmeter
 =======================
 Free and Open Source, works on Windows 7, 10 and 11
 --
-<img src="Preview/Gadgets/Battery.png" width="130px" />
 In-part a museum / preservation effort of the wonderful design work from a bygone era...
-
 <img src="https://github.com/fediaFedia/Longhorn/raw/main/preview.jpg" width="256px" />
 <a href="https://github.com/fediaFedia/Longhorn">Also check out the Longhorn Sidebar!</a>
+
+
+<img src="Preview/Main.png" width="1024px" />
 
 ---------------
 Been in the works for a couple of years but I've been putting it off...
